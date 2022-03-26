@@ -1,0 +1,2 @@
+/usr/bin/ar.exe qc libCode.a  CMakeFiles/Code.dir/library.c.o
+/usr/bin/ranlib.exe libCode.a
